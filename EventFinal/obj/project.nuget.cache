@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KhvveNSSR/QntuKzSfUOSUhjuCRWrvhcwKMv8fgomGU3f9oJEsBmfj80Ke0KXb2nQ21C4w4aDjj1Z/n0S9aREg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linda\\source\\repos\\EventFinal\\EventFinal\\EventFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

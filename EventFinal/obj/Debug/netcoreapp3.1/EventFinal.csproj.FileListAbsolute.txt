@@ -1,0 +1,12 @@
+C:\Users\linda\source\repos\EventFinal\EventFinal\obj\Debug\netcoreapp3.1\EventFinal.AssemblyInfoInputs.cache
+C:\Users\linda\source\repos\EventFinal\EventFinal\obj\Debug\netcoreapp3.1\EventFinal.AssemblyInfo.cs
+C:\Users\linda\source\repos\EventFinal\EventFinal\obj\Debug\netcoreapp3.1\EventFinal.csproj.CoreCompileInputs.cache
+C:\Users\linda\source\repos\EventFinal\EventFinal\bin\Debug\netcoreapp3.1\EventFinal.exe
+C:\Users\linda\source\repos\EventFinal\EventFinal\bin\Debug\netcoreapp3.1\EventFinal.deps.json
+C:\Users\linda\source\repos\EventFinal\EventFinal\bin\Debug\netcoreapp3.1\EventFinal.runtimeconfig.json
+C:\Users\linda\source\repos\EventFinal\EventFinal\bin\Debug\netcoreapp3.1\EventFinal.runtimeconfig.dev.json
+C:\Users\linda\source\repos\EventFinal\EventFinal\bin\Debug\netcoreapp3.1\EventFinal.dll
+C:\Users\linda\source\repos\EventFinal\EventFinal\bin\Debug\netcoreapp3.1\EventFinal.pdb
+C:\Users\linda\source\repos\EventFinal\EventFinal\obj\Debug\netcoreapp3.1\EventFinal.dll
+C:\Users\linda\source\repos\EventFinal\EventFinal\obj\Debug\netcoreapp3.1\EventFinal.pdb
+C:\Users\linda\source\repos\EventFinal\EventFinal\obj\Debug\netcoreapp3.1\EventFinal.genruntimeconfig.cache
